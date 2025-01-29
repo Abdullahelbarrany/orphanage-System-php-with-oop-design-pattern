@@ -1,4 +1,4 @@
-# Orphanage Management System (PHP - OOP - Design Patterns)
+# Orphanage Management System 
 
 ## Description
 The Orphanage Management System is a web-based platform designed to manage orphan registrations, donations, and secure data transactions efficiently. Built using PHP with Object-Oriented Programming (OOP) and design patterns, this system ensures scalability, maintainability, and security.
